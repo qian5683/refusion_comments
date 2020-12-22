@@ -1,0 +1,7 @@
+refusion
+/home/qian/refusion/devel/.private/refusion/cmake.lock /home/qian/refusion/devel/./cmake.lock
+/home/qian/refusion/devel/.private/refusion/share/refusion/cmake/refusionConfig.cmake /home/qian/refusion/devel/share/refusion/cmake/refusionConfig.cmake
+/home/qian/refusion/devel/.private/refusion/share/refusion/cmake/refusionConfig-version.cmake /home/qian/refusion/devel/share/refusion/cmake/refusionConfig-version.cmake
+/home/qian/refusion/devel/.private/refusion/lib/librefusion.a /home/qian/refusion/devel/lib/librefusion.a
+/home/qian/refusion/devel/.private/refusion/lib/libeigen_wrapper.so /home/qian/refusion/devel/lib/libeigen_wrapper.so
+/home/qian/refusion/devel/.private/refusion/lib/pkgconfig/refusion.pc /home/qian/refusion/devel/lib/pkgconfig/refusion.pc

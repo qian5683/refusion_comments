@@ -1,0 +1,8 @@
+prefix=/home/qian/refusion/src/refusion/build/devel
+
+Name: refusion
+Description: Description of refusion
+Version: 0.0.1
+Cflags: -I/home/qian/refusion/src/refusion/src
+Libs: -L${prefix}/lib -lrefusion
+Requires: 

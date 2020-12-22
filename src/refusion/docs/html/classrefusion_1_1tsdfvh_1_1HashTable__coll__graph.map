@@ -1,0 +1,6 @@
+<map id="refusion::tsdfvh::HashTable" name="refusion::tsdfvh::HashTable">
+<area shape="rect" id="node2" href="$classrefusion_1_1tsdfvh_1_1VoxelBlock.html" title="Class that represents a voxel block. " alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node3" href="$classrefusion_1_1tsdfvh_1_1Heap.html" title="Class handling the indices of the voxel blocks. " alt="" coords="23,56,174,83"/>
+<area shape="rect" id="node4" href="$structrefusion_1_1tsdfvh_1_1HashEntry.html" title="Struct that represents a hash entry. " alt="" coords="7,107,190,133"/>
+<area shape="rect" id="node5" href="$structrefusion_1_1tsdfvh_1_1Voxel.html" title="Struct representing a voxel. " alt="" coords="22,157,175,184"/>
+</map>

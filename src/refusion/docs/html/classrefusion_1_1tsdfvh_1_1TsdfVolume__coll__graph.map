@@ -1,0 +1,8 @@
+<map id="refusion::tsdfvh::TsdfVolume" name="refusion::tsdfvh::TsdfVolume">
+<area shape="rect" id="node2" href="$classrefusion_1_1tsdfvh_1_1HashTable.html" title="Class for handling the hash table. It takes care of allocating and deleting voxel blocks and handles ..." alt="" coords="332,81,515,108"/>
+<area shape="rect" id="node3" href="$classrefusion_1_1tsdfvh_1_1VoxelBlock.html" title="Class that represents a voxel block. " alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node4" href="$classrefusion_1_1tsdfvh_1_1Heap.html" title="Class handling the indices of the voxel blocks. " alt="" coords="23,56,174,83"/>
+<area shape="rect" id="node5" href="$structrefusion_1_1tsdfvh_1_1HashEntry.html" title="Struct that represents a hash entry. " alt="" coords="7,107,190,133"/>
+<area shape="rect" id="node6" href="$structrefusion_1_1tsdfvh_1_1Voxel.html" title="Struct representing a voxel. " alt="" coords="22,157,175,184"/>
+<area shape="rect" id="node7" href="$structrefusion_1_1tsdfvh_1_1TsdfVolumeOptions.html" title="Options for the TSDF representation (see TsdfVolume). " alt="" coords="328,133,519,174"/>
+</map>
